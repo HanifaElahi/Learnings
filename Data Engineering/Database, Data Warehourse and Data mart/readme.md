@@ -20,7 +20,7 @@ A **Database** is an organized collection of structured data, typically stored e
 
 ---
 
-## Data Warehouse**
+## Data Warehouse
 
 ### Definition
 
@@ -89,7 +89,7 @@ A **Data Mart** is a subset of a Data Warehouse, tailored to serve the needs of 
 
 ---
 
-# Final Thought 💡
+# Summary 💡
 
 If data were water:
 
