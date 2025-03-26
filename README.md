@@ -15,4 +15,4 @@
 
 ## SQL
 
-- [Types of SQL]()
+- [Types of SQL](https://github.com/HanifaElahi/Learnings/tree/main/SQL/Types%20of%20SQL)
