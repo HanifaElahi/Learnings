@@ -12,3 +12,7 @@
 - [Database vs Data warehouse vs Data mart](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Engineering/Database%2C%20Data%20Warehourse%20and%20Data%20mart)
 - [Database Schema vs Database Catalogue](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Engineering/Database%20Schema%20vs%20Database%20Catalogue)
 - [Parquet vs CSV vs JSON](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Engineering/Parquet%20vs%20CSV%20vs%20JSON)
+
+## SQL
+
+- [Types of SQL]()
