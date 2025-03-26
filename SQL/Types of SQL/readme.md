@@ -135,5 +135,4 @@ SQL has different types of commands to handle different tasks:
 - **DCL**: Manage permissions (`GRANT`, `REVOKE`) - *Used for controlling who can view or modify data.*
 - **TCL**: Manage transactions (`COMMIT`, `ROLLBACK`) - *Used when making financial transactions or salary updates that should be either saved or rolled back.*
 
-These SQL types help in efficiently working with databases across various real-world applications. 🚀
 
