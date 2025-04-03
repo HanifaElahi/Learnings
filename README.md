@@ -20,3 +20,5 @@
 - [Types of SQL](https://github.com/HanifaElahi/Learnings/tree/main/SQL/Types%20of%20SQL)
 
 ## Artificial intelligence
+
+- [Gen AI vs. Agentic AI](https://github.com/HanifaElahi/Learnings/tree/main/Artificial%20Intelligence/Gen%20AI%20vs%20Agentic%20AI)
