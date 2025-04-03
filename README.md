@@ -15,6 +15,8 @@
 - [Database Schema vs Database Catalogue](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Engineering/Database%20Schema%20vs%20Database%20Catalogue)
 - [Parquet vs CSV vs JSON](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Engineering/Parquet%20vs%20CSV%20vs%20JSON)
 
-## SQL
+## Databases / SQL
 
 - [Types of SQL](https://github.com/HanifaElahi/Learnings/tree/main/SQL/Types%20of%20SQL)
+
+## Artificial intelligence
