@@ -10,9 +10,9 @@
 
 **🔹 Key Features:**
 
-✅ Content Creation – Writes, draws, composes.
-✅ Human-like Responses – Mimics conversation.
-❌ No Autonomy – Only responds when asked.
+- ✅ Content Creation – Writes, draws, composes.
+- ✅ Human-like Responses – Mimics conversation.
+- ❌ No Autonomy – Only responds when asked.
 
 **🌍 Real-Life Examples:**
 
@@ -32,9 +32,9 @@
 
 **🔹 Key Features:**
 
-✅ Autonomous Decision-Making – Acts on its own.
-✅ Multi-Step Execution – Handles complex workflows.
-❌ Higher Risk – Needs safeguards to avoid errors.
+- ✅ Autonomous Decision-Making – Acts on its own.
+- ✅ Multi-Step Execution – Handles complex workflows.
+- ❌ Higher Risk – Needs safeguards to avoid errors.
 
 **🌍 Real-Life Examples:**
 
