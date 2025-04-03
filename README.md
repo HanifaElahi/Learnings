@@ -4,6 +4,8 @@
 
 - [Different Type of Analysis](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Analytics/Types%20of%20Analysis)
 - [Cause and Effect](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Analytics/Cause%20%26%20Effect)
+- [Data Analyst Project Lifecycle](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Analytics/Data%20Analytics%20Project%20Lifecycle)
+- [Data Analyst Project Lifecycle Steps Breakdown](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Analytics/Data%20Analytics%20Steps)
 
 ## Data Engineering
 
