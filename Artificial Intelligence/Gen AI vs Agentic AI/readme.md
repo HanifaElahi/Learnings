@@ -87,5 +87,3 @@
 
 - Gen AI = Smart Speaker (responds when asked).
 - Agentic AI = Self-Driving Car (acts on its own).
-
-Both are powerful—just in different ways! Which one excites you more? 😊
