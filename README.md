@@ -9,8 +9,8 @@
 
 ## Product Analytics
 
-- []()
-- 
+- [Customer Lifetime Value](https://github.com/HanifaElahi/Learnings/tree/main/Product%20Analytics/Customer%20Lifetime%20Value)
+  
 ## Data Engineering
 
 - [OLTP vs OLAP](https://github.com/HanifaElahi/Learnings/tree/main/Data%20Engineering/OLTP%20vs%20OLAP)
