@@ -10,6 +10,7 @@
 ## Product Analytics
 
 - [Customer Lifetime Value](https://github.com/HanifaElahi/Learnings/tree/main/Product%20Analytics/Customer%20Lifetime%20Value)
+- [Marketing Terms](https://github.com/HanifaElahi/Learnings/tree/main/Product%20Analytics/Marketing%20Terms)
   
 ## Data Engineering
 
